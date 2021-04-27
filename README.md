@@ -1,6 +1,6 @@
 # Peter-Easterbrook
 
-<h1 align="center">Hi 👋, I'm Peter</h1>
+<h1 align="center">Hi 👋🏼, I'm Peter</h1>
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
 - 🔭 I’m currently working on [a food delivery app](https://react-food-order-app-2021.vercel.app/)
