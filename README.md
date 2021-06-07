@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & Vue**
 
-- 👨‍💻 All of my projects are available at [https://pe-wd-resume.vercel.app/](https://pe-wd-resume.vercel.app/)
+- 👨‍💻 All of my projects are available at [OneStep WebDev Resume´](https://onestep-gateway.vercel.app/)
 
 - 📫 How to reach me **peter@easterbrook.at**
 
