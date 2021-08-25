@@ -20,7 +20,7 @@
 
 
 <a href="https://linkedin.com/in/petere70" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="petere70" height="30" width="40" /></a>
-<a href=”https://twitter.com/thisisvillegas">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
+
 
 </p>
 
@@ -29,5 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-easterbrook&show_icons=true&theme=github_dark")
 " alt="peter-easterbrook" /></p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter-easterbrook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
