@@ -31,7 +31,7 @@
 " alt="peter-easterbrook" /></p>
 
   <a href="https://github.com/Peter-Easterbrook/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-easterbrook&repo=github-readme-stats&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-easterbrook&repo=github-readme-stats&show_icons=true&theme=github_dark&layout=compact" />
 </a>
 
 
