@@ -16,15 +16,14 @@
   
 <a href="https://dev.to/@petereasterbro1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@petereasterbro1" height="30" width="40"  /></a>
 
-<a href="https://twitter.com/@petereasterbro1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@petereasterbro1" height="30" width="40" /></a>
+<a href="https://twitter.com/@petereasterbro1" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1" alt="@petereasterbro1" height="30" width="40" /></a>
 
 
 <a href="https://linkedin.com/in/petere70" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="petere70" height="30" width="40" /></a>
+  
 
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" color="white"/></a>
-
-
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 </p>
 
