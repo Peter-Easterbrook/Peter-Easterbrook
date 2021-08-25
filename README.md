@@ -29,7 +29,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-easterbrook&show_icons=true&theme=github_dark")
 " alt="peter-easterbrook" /></p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter-easterbrook)](https://github.com/Peter-Easterbrook/github-readme-stats)
+
+  <a href="https://github.com/Peter-Easterbrook/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-easterbrook&repo=github-readme-stats" />
+</a>
 
 
 
