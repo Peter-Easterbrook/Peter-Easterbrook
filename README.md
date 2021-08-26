@@ -57,7 +57,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-easterbrook&show_icons=true&theme=github_dark")
  alt="peter-easterbrook" />
 
-</br>
+</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-easterbrook&repo=github-readme-stats&show_icons=true&theme=github_dark&layout=compact" />
 </p>
 
