@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋🏼, I'm Peter</h1>
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
+![BRunner](https://user-images.githubusercontent.com/59874288/133916537-fb1b12f2-c05e-41b1-a115-5324e53e3885.gif)
 
 
 - 🔭 I’m currently working on [a NextJS events app](https://nycdjevents2021.vercel.app/)
