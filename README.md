@@ -1,10 +1,6 @@
-
-<img src="https://user-images.githubusercontent.com/59874288/133886424-6eac5ab6-d2e2-406e-b79f-d5c9cd3dd09e.jpg">
 <h1 align="center">Hi 👋🏼, I'm Peter</h1>
-<h3 align="center">A web development enthusiast living in Vienna</h3>
-
 ![BRunner](https://user-images.githubusercontent.com/59874288/133916537-fb1b12f2-c05e-41b1-a115-5324e53e3885.gif)
-
+<h3 align="center">A web development enthusiast living in Vienna</h3>
 
 - 🔭 I’m currently working on [a NextJS events app](https://nycdjevents2021.vercel.app/)
 
