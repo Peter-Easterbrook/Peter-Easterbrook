@@ -3,7 +3,8 @@
 ![Mountains](https://user-images.githubusercontent.com/59874288/133986203-a0765e68-48a7-4011-afa9-218519b25a5d.jpg)
 
 
-![Sebastian's Desk](https://user-images.githubusercontent.com/59874288/134055296-e0bb3f20-5e2c-4712-9206-0646e7ad1c79.mp4)
+![Sebastian's Desk](https://github.com/Peter-Easterbrook/Repository/issues/110#issue-1001271582)
+
 
 
 <h3 align="center">A web development enthusiast living in Vienna</h3>
