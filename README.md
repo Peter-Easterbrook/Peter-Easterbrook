@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Peter</h1>
   
-![PeterSnow](https://user-images.githubusercontent.com/59874288/133916611-4bd35271-af87-4207-9e9c-41b6584a8d7a.gif)
+![Mountains](https://user-images.githubusercontent.com/59874288/133986203-a0765e68-48a7-4011-afa9-218519b25a5d.jpg)
+
 
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
