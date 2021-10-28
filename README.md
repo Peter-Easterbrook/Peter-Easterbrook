@@ -16,9 +16,10 @@
 <p align="left">
   
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/@petereasterbro1)
+[![CodePen Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=codepen&logoColor=white&color=orange)](https://stackoverflow.com/users/story/12694406)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/petere70)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/PeterEasterbrook)
-  [![CodePen Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=codepen&logoColor=white&color=orange)](https://stackoverflow.com/users/story/12694406)
+
 
 </p>
 
