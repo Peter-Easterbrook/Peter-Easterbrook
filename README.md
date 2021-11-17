@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [a NextJS events app](https://nycdjevents2021.vercel.app/)
 
-- 🌱 I’m currently learning **React & Vue**
+- 🌱 I’m currently learning **React & Figma**
 
 - 👨‍💻 All of my projects are available at [OneStep WebDev Resume´](https://onestep-gateway.vercel.app/)
 
