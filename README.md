@@ -4,7 +4,7 @@
 
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
-- 🔭 I’m currently working on [a NextJS events app](https://nycdjevents2021.vercel.app/)
+- 🔭 I’m currently working on [a React collaboration app](https://dev-collaboration-2021.web.app/signup)
 
 - 🌱 I’m currently learning **React & Figma**
 
