@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [a React collaboration app](https://dev-collaboration-2021.web.app/signup)
 
-- 🌱 I’m currently learning **React & Figma**
+- 🌱 I’m currently learning **Figma & Docker**
 
 - 👨‍💻 All of my projects are available at [OneStep WebDev Resume´](https://onestep-gateway.vercel.app/)
 
