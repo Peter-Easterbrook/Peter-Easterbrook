@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼 👋, I'm Peter</h1>
+<h1 align="center">Hi 👋, I'm Peter</h1>
   
 ![Mountains](https://user-images.githubusercontent.com/59874288/133986203-a0765e68-48a7-4011-afa9-218519b25a5d.jpg)
 
