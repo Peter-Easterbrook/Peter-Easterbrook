@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native 2022 Version**
 
-- 👨‍💻 All of my projects are available at [OneStep WebDev Resume´](https://onestep-gateway.vercel.app/)
+- 👨‍💻 All of my projects are available at [OneStep WebDev Resume´](https://gateway.onestepweb.dev/)
 
 - 📫 How to reach me **peter@easterbrook.at**
 
