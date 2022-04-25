@@ -56,7 +56,7 @@
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a>
-
+    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="50" height="50"/> </a>  
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-easterbrook&show_icons=true&theme=github_dark")
