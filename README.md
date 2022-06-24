@@ -4,7 +4,7 @@
 
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
-- 🔭 I’m currently working on [a React collaboration app](https://dev-collaboration-2021.web.app/signup)
+- 🔭 I’m currently working on <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 
 - 🌱 I’m currently learning **React Native 2022 Version**
 
