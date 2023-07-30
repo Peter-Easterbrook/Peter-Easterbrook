@@ -4,13 +4,13 @@
 
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
-- 🔭 I’m currently working on Cypress Testing <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress-icon.svg" alt="redux" width="40" height="40"/> </a> 
+- I’m currently working on a React events app with a built-in backend and user/admin access on MongoDB  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
 
-- 🌱 I’m currently learning **React Native 2022 Version**
+- I’m currently learning **CypressTesting** <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress-icon.svg" alt="redux" width="40" height="40"/> </a> 
 
-- 👨‍💻 All of my projects are available at [OneStep WebDev Resume´](https://gateway.onestepweb.dev/)
+- All of my projects are available at [OneStep WebDev Resume´](https://gateway.onestepweb.dev/)
 
-- 📫 How to reach me **peter@easterbrook.at**
+- How to reach me **peter@easterbrook.at**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
