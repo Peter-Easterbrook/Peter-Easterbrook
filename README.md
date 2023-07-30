@@ -56,7 +56,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a>
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="50" height="50"/> </a>  
-</p>
     <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress-icon.svg" alt="cypress" width="50" height="50"/> </a>  
 </p>
 
