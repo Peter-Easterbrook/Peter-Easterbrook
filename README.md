@@ -10,8 +10,6 @@
 
 - I’ve just finished a <a href="https://proshop2023.onrender.com/" target="_blank">MERN shopping app</a> with a built-in backend, user/admin access and PayPal with data on MongoDB  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
 
-- I’m currently learning **CypressTesting** <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress-icon.svg" alt="redux" width="40" height="40"/> </a> 
-
 - All of my projects are available at [OneStep WebDev Resume´](https://gateway.onestepweb.dev/)
 
 - How to reach me **peter@easterbrook.at**
