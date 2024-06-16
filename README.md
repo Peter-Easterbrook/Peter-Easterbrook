@@ -8,7 +8,7 @@
 
 - Also working on a <a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next v14 Gastro app</a> with built-in SSR and MongoDB database connection functionality  <a href="https://nextjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="mongodb" width="40" height="40"/> </a>
 
-- I’ve just finished a <a href="https://proshop2023.onrender.com/" target="_blank">MERN shopping app</a> with a built-in backend, user/admin access and PayPal with data on MongoDB  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
+- I’ve just finished a <a href="https://next-amazona-2024.vercel.app/" target="_blank">Next.js shopping app</a> with a built-in backend, user/admin access and PayPal with data on MongoDB  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
 
 - All of my projects are available at [OneStep WebDev Resume´](https://gateway.onestepweb.dev/)
 
