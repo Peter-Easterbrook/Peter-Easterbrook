@@ -10,7 +10,7 @@
 
 - I’ve just finished a <a href="https://next-amazona-2024.vercel.app/" target="_blank">Next.js shopping app</a> with a built-in backend, user/admin access and PayPal with data on MongoDB  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
 
-- All of my projects are available at [OneStep WebDev Resume´](https://onestep-gateway-2025.vercel.app/)
+- All of my projects are available at [OneStep WebDev Resume´](https://gateway25.onestepweb.dev/)
 
 - How to reach me **peter@easterbrook.at**
 
