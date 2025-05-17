@@ -4,7 +4,7 @@
 
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
-- Currently getting to grips with React Router v6.17 which includes the useLoaderData and createBrowserRouter hooks as well as loaders and actions passing sata around.
+- Currently drafting a bunch of React Native apps with Expo Go and the new file-based routing.
 
 - Also working on a <a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next v14 Gastro app</a> with built-in SSR and MongoDB database connection functionality  <a href="https://nextjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="mongodb" width="40" height="40"/> </a>
 
