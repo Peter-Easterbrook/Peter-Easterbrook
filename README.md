@@ -12,7 +12,7 @@
 
 - All of my projects are available at [OneStep WebDev Resume´](https://gateway25.onestepweb.dev/)
 
-- How to reach me **peter@easterbrook.at**
+- How to reach me **peter@onestepweb.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
