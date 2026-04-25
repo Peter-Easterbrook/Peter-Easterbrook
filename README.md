@@ -27,7 +27,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div display="flex-wrap">
+<p>
  <a href="https://www.chaijs.com/" target="_blank"> <img src= "https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chai" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -59,7 +59,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> </a>
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="50" height="50"/> </a>  
     <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress-icon.svg" alt="cypress" width="50" height="50"/> </a>  
-</div>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-easterbrook&show_icons=true&theme=github_dark")
  alt="peter-easterbrook" />
