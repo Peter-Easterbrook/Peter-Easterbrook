@@ -75,12 +75,12 @@
 </table>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-easterbrook&show_icons=true&theme=github_dark"
- alt="peter-easterbrook" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Peter-Easterbrook&show_icons=true&theme=github_dark" alt="Peter Easterbrook GitHub stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-easterbrook&repo=github-readme-stats&show_icons=true&theme=github_dark&layout=compact" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Easterbrook&layout=compact&theme=github_dark" alt="Top languages" />
 </p>
 
 
