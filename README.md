@@ -75,7 +75,7 @@
 </table>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-easterbrook&show_icons=true&theme=github_dark")
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-easterbrook&show_icons=true&theme=github_dark"
  alt="peter-easterbrook" />
 
 </p>
