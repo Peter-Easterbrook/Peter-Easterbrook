@@ -12,7 +12,7 @@
   <p>Designed for language learners who want practical, hands-on English grammar practice and vocabulary training without the fluff. Move beyond simple flashcards and dive into interactive exercises that actually build fluency—whether preparing for exams, certifications, or everyday confidence.</p>
 </blockquote>
 
-<a href="https://play.google.com/store/apps/details?id=com.petereasterbro1.eslexercises25" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.petereasterbro1.eslexercises25" target="_blank" align="right">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60">
 </a>
 
