@@ -23,30 +23,37 @@
 <table>
   <tr>
     <td>
-      <strong><a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next.js Gastro App</a></strong><br>
-      A complete recipe and culinary platform built with Next.js, featuring optimized Server-Side Rendering (SSR) and dynamic MongoDB integration.
+      <strong><a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next.js Gastro Platform</a></strong><br>
+      A production-optimized, full-stack culinary application built with <strong>Next.js 16 (SSR)</strong> and <strong>React 19</strong>. 
+      Includes decoupled data streams via <strong>MongoDB</strong> and <strong>Firebase</strong>, global state management via <strong>Zustand</strong>, server-side data sanitization (XSS filtering), and a secure <strong>Stripe</strong> checkout system.
     </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js"><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-top: 4px;">
+    <td align="center" valign="middle" width="140">
+      <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js" alt="Next.js"><br>
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" style="margin-top: 4px;"><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-top: 4px;"><br>
+      <img src="https://img.shields.io/badge/Stripe-5433FF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" style="margin-top: 4px;"><br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" style="margin-top: 4px;">
     </td>
   </tr>
+
   <tr>
     <td>
-      <strong><a href="https://next-amazona-2024.vercel.app/" target="_blank">Next.js E-Commerce Platform</a></strong><br>
-      Full-stack shopping application featuring robust user/admin role authentication, a live PayPal payment gateway, and MongoDB data management.
+      <strong><a href="https://next-amazona-2024.vercel.app/" target="_blank">Next.js E-Commerce Architecture</a></strong><br>
+      A full-scale commercial shopping engine utilizing <strong>Next-Auth</strong> session management, a dedicated Admin Dashboard backed by <strong>Chart.js</strong> data visualization, dynamic image storage via <strong>Cloudinary</strong>, and fully integrated <strong>PayPal SDK</strong> transactions. Styled using <strong>Tailwind CSS v4</strong> and <strong>DaisyUI</strong> components.
     </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js"><br>
-      <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" style="margin-top: 4px;"><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-top: 4px;">
+    <td align="center" valign="middle" width="140">
+      <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js" alt="Next.js"><br>
+      <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" style="margin-top: 4px;"><br>
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" style="margin-top: 4px;"><br>
+      <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" style="margin-top: 4px;"><br>
+      <img src="https://img.shields.io/badge/Cloudinary-34495E?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" style="margin-top: 4px;">
     </td>
   </tr>
 </table>
 
 <br>
 
-🎯 *See all active deployments, codebases, and technical benchmarks at my central dashboard: **[OneStep WebDev Resumé](https://gateway25.onestepweb.dev/)***
+🎯 *See complete architectural benchmarks, codebases, and live deployments at my central hub: **[OneStep WebDev Resumé](https://gateway25.onestepweb.dev/)***
 
 - How to reach me **peter@onestepweb.dev**
 
