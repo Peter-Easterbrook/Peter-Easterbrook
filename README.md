@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Peter</h1>
 
-<video id="background-video" autoplay="" loop="" muted="" poster="https://user-images.githubusercontent.com/59874288/134059346-4dad90a1-ce35-4df8-8acb-d40623414b5e.jpg" aria-hidden="true" data-video="0">
-          <source src="https://user-images.githubusercontent.com/59874288/134055296-e0bb3f20-5e2c-4712-9206-0646e7ad1c79.mp4" type="video/mp4">
-        </video>
+<img src="./sebastian.webp" alt="Profile Animation" width="100%">
 
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
