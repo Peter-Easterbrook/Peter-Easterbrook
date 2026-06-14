@@ -18,11 +18,9 @@
   </div>
 </blockquote>
 
-- Also working on a <a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next v14 Gastro app</a> with built-in SSR and MongoDB database connection functionality  <a href="https://nextjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="mongodb" width="40" height="40"/> </a>
-
-- I’ve just finished a <a href="https://next-amazona-2024.vercel.app/" target="_blank">Next.js shopping app</a> with a built-in backend, user/admin access and PayPal with data on MongoDB  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
-
-- All of my projects are available at [OneStep WebDev Resume´](https://gateway25.onestepweb.dev/)
+- 🍳 **<a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next.js Gastro App</a>** — A production-ready culinary platform featuring Server-Side Rendering (SSR) and seamless MongoDB database integration.
+- 🛒 **<a href="https://next-amazona-2024.vercel.app/" target="_blank">Next.js E-Commerce Platform</a>** — A full-stack shopping app complete with user/admin dashboards, secure PayPal gateway integration, and MongoDB data persistence.
+- 📁 Explore my complete portfolio and live deployments at the [OneStep WebDev Resumé](https://gateway25.onestepweb.dev/).
 
 - How to reach me **peter@onestepweb.dev**
 
