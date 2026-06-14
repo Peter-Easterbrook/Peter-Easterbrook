@@ -5,13 +5,16 @@
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
 - 🚀 Currently building mobile experiences with React Native, Expo, and modern file-based routing.
-- 📱 **My latest Android app is live!** Download it directly on the Google Play Store:
+- 🎉 **Shipped to Production:** My latest Android app is officially out of closed testing and live! 
 
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.petereasterbro1.eslexercises25" target="_blank">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">
-  </a>
-</div>
+<blockquote>
+  <h3>📚 ESL Exercises — Your Digital Workbook</h3>
+  <p>Designed for language learners who want practical, hands-on English grammar practice and vocabulary training without the fluff. Move beyond simple flashcards and dive into interactive exercises that actually build fluency—whether preparing for exams, certifications, or everyday confidence.</p>
+</blockquote>
+
+<a href="https://play.google.com/store/apps/details?id=com.petereasterbro1.eslexercises25" target="_blank">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60">
+</a>
 
 - Also working on a <a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next v14 Gastro app</a> with built-in SSR and MongoDB database connection functionality  <a href="https://nextjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="mongodb" width="40" height="40"/> </a>
 
