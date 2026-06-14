@@ -4,8 +4,14 @@
 
 <h3 align="center">A web development enthusiast living in Vienna</h3>
 
-- Currently drafting a bunch of React Native apps with Expo Go and the new file-based routing.
-- I currently need 12 testers for the "closed testing" round as a Google dev. If you'd like to be one of the first to get a preview version of my latest React Native Android app, please get in touch.
+- 🚀 Currently building mobile experiences with React Native, Expo, and modern file-based routing.
+- 📱 **My latest Android app is live!** Download it directly on the Google Play Store:
+
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.petereasterbro1.eslexercises25" target="_blank">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">
+  </a>
+</div>
 
 - Also working on a <a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next v14 Gastro app</a> with built-in SSR and MongoDB database connection functionality  <a href="https://nextjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="mongodb" width="40" height="40"/> </a>
 
