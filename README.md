@@ -18,9 +18,35 @@
   </div>
 </blockquote>
 
-- 🍳 **<a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next.js Gastro App</a>** — A production-ready culinary platform featuring Server-Side Rendering (SSR) and seamless MongoDB database integration.
-- 🛒 **<a href="https://next-amazona-2024.vercel.app/" target="_blank">Next.js E-Commerce Platform</a>** — A full-stack shopping app complete with user/admin dashboards, secure PayPal gateway integration, and MongoDB data persistence.
-- 📁 Explore my complete portfolio and live deployments at the [OneStep WebDev Resumé](https://gateway25.onestepweb.dev/).
+<h3>🍳 Featured Web Applications</h3>
+
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://next-recipe-share2024.vercel.app/" target="_blank">Next.js Gastro App</a></strong><br>
+      A complete recipe and culinary platform built with Next.js, featuring optimized Server-Side Rendering (SSR) and dynamic MongoDB integration.
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js"><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-top: 4px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://next-amazona-2024.vercel.app/" target="_blank">Next.js E-Commerce Platform</a></strong><br>
+      Full-stack shopping application featuring robust user/admin role authentication, a live PayPal payment gateway, and MongoDB data management.
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js"><br>
+      <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" style="margin-top: 4px;"><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-top: 4px;">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+🎯 *See all active deployments, codebases, and technical benchmarks at my central dashboard: **[OneStep WebDev Resumé](https://gateway25.onestepweb.dev/)***
 
 - How to reach me **peter@onestepweb.dev**
 
